@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study on hello world</title>
-    <link>http://wangchengjin.github.io/tags/study/</link>
+    <link>https://wangchengjin.github.io/tags/study/</link>
     <description>Recent content in Study on hello world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 30 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://wangchengjin.github.io/tags/study/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wangchengjin.github.io/tags/study/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>第一章</title>
-      <link>http://wangchengjin.github.io/2017/09/first/</link>
+      <link>https://wangchengjin.github.io/2017/09/first/</link>
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://wangchengjin.github.io/2017/09/first/</guid>
+      <guid>https://wangchengjin.github.io/2017/09/first/</guid>
       <description>aaa bbb ccc ddd  写东西 ;)</description>
     </item>
     
